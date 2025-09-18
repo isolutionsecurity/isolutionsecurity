@@ -1,10 +1,7 @@
-## Hi there, isolutionsecurity👋
-
+## Hi there, I'm Jonathan
 <!--
-**isolutionsecurity/isolutionsecurity** is a Cybersecurity Analyst & Bug Bounty Hunter
-
-🔐 Specializing in security testing & evaluation, Web App Security, Pentest, Automation, and Vulnerability Research  
-🛠️ Builder of Open-Source Security Tools | 📝 Writer of Technical Exploits
+Cybersecurity Analyst, Specializing in security testing & evaluation, Web App Security, Pentest, Automation, and Vulnerability Research  
+🛠️ Builder of Open-Source Security Tools | 📝 Writer of Technical Exploits | Automation Enthusiast
 
 Featured Projects:
 
