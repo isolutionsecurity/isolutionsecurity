@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there, Jonathan👋
 
 <!--
-**isolutionsecurity/isolutionsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**isolutionsecurity/isolutionsecurity** is a Cybersecurity Analyst & Bug Bounty Hunter
 
-Here are some ideas to get you started:
+🔐 Specializing in security testing & evaluation, Web App Security, Pentest, Automation, and Vulnerability Research  
+🛠️ Builder of Open-Source Security Tools | 📝 Writer of Technical Exploits
+
+Featured Projects:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
