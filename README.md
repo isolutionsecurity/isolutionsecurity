@@ -48,6 +48,15 @@ Builder of Open-Source Security Tools | Writer of Technical Exploits | Automatio
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 📊 GitHub Stats
+
+![isolutionsecurity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isolutionsecurity&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isolutionsecurity&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=isolutionsecurity&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isolutionsecurity&theme=github-compact)  
 
 
 
