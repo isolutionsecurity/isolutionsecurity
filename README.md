@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan
 
-Cybersecurity Analyst, Specializing in security testing & evaluation, Web App Security, Pentest, Automation, and Vulnerability Research  
+Cybersecurity Analyst, Specializing in security testing & evaluation, Vulnerability Research, Web App Security, Pentest, and Automation  
 Builder of Open-Source Security Tools | Writer of Technical Exploits | Automation Enthusiast
 
 Featured Projects: 
